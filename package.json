@@ -1,0 +1,17 @@
+{
+  "name": "eras",
+  "version": "1.0.0",
+  "description": "e-statement reader and simplifier",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "type": "commonjs",
+  "license": "ISC",
+  "dependencies": {
+    "pdf-parse": "^1.1.1",
+    "pdf-parser": "^1.0.5",
+    "pdfreader": "^3.0.2"
+  }
+}
